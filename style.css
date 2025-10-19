@@ -33,9 +33,10 @@ body {
 
 .happy-woman-day {
   color: white;
-  font-size: 50px;
+  font-size: 30px;
   position: fixed;
-  top: 80px;
+  top: 30px;
+  /* font-family: ; */
 }
 
 .flowers {
@@ -311,8 +312,8 @@ body {
   animation: moving-grass--2 1.5s linear infinite;
 }
 .flower__grass--top {
-  width: 7vmin;
-  height: 10vmin;
+  width: 4vmin;
+  height: 6vmin;
   border-top-right-radius: 100%;
   border-right: var(--line-w) solid var(--c);
   transform-origin: bottom center;
